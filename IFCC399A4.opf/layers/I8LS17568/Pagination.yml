@@ -1,0 +1,172 @@
+id: 265977bd8650479fac67ba2c51d180d0
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  de5d68b85a5d4a71afdabb462c3c694a:
+    span:
+      start: 0
+      end: 610
+    imgnum: 1
+    reference: I8LS175680001.tif
+  17065ce8ec73400f842d959faafd481d:
+    span:
+      start: 611
+      end: 719
+    imgnum: 3
+    reference: I8LS175680003.jpg
+  29b787caeed64c81a526341ed14324f4:
+    span:
+      start: 720
+      end: 1239
+    imgnum: 4
+    reference: I8LS175680004.jpg
+  4536acd3e63b4992aad8391dab5bfddf:
+    span:
+      start: 1240
+      end: 1874
+    imgnum: 5
+    reference: I8LS175680005.jpg
+  562e81587dea430f9b48f1141d9aef6b:
+    span:
+      start: 1875
+      end: 2853
+    imgnum: 6
+    reference: I8LS175680006.jpg
+  643d8b671ebf417d828fefa2044196ba:
+    span:
+      start: 2854
+      end: 3857
+    imgnum: 7
+    reference: I8LS175680007.jpg
+  d333c1d6a618400f8a34dceff23e9bf9:
+    span:
+      start: 3858
+      end: 4896
+    imgnum: 8
+    reference: I8LS175680008.jpg
+  42995dc833f146f2b96f5ff5ae2ce6ab:
+    span:
+      start: 4897
+      end: 5886
+    imgnum: 9
+    reference: I8LS175680009.jpg
+  c8352ee5c72842ccbba8054bfdf5e632:
+    span:
+      start: 5887
+      end: 6830
+    imgnum: 10
+    reference: I8LS175680010.jpg
+  dbb139e8a72d4770ac593dcef0344f8c:
+    span:
+      start: 6831
+      end: 7797
+    imgnum: 11
+    reference: I8LS175680011.jpg
+  614683d54b5e438794b2d5ae5b9e2e71:
+    span:
+      start: 7798
+      end: 8721
+    imgnum: 12
+    reference: I8LS175680012.jpg
+  0885a1ff05e5444eae36ce30a31d1b25:
+    span:
+      start: 8722
+      end: 9638
+    imgnum: 13
+    reference: I8LS175680013.jpg
+  3e122938653047339ee3abd9dbf9c1f0:
+    span:
+      start: 9639
+      end: 10656
+    imgnum: 14
+    reference: I8LS175680014.jpg
+  823c6e249eee40fab25fbde56ef6fb04:
+    span:
+      start: 10657
+      end: 11503
+    imgnum: 15
+    reference: I8LS175680015.jpg
+  98d7d89659e645eab55e3ad3f1a00959:
+    span:
+      start: 11504
+      end: 12386
+    imgnum: 16
+    reference: I8LS175680016.jpg
+  d4a1a85bee124499b695c5932c57ed41:
+    span:
+      start: 12387
+      end: 13271
+    imgnum: 17
+    reference: I8LS175680017.jpg
+  5d889693013a471186371d09f44ba24a:
+    span:
+      start: 13272
+      end: 14212
+    imgnum: 18
+    reference: I8LS175680018.jpg
+  26a12a00efe54808b19b7d279aed67b5:
+    span:
+      start: 14213
+      end: 15191
+    imgnum: 19
+    reference: I8LS175680019.jpg
+  71c3f8a23e7c4a7d8df21002c7ebd5ce:
+    span:
+      start: 15192
+      end: 16200
+    imgnum: 20
+    reference: I8LS175680020.jpg
+  7ebb05deccac484784833c842581e9cc:
+    span:
+      start: 16201
+      end: 17148
+    imgnum: 21
+    reference: I8LS175680021.jpg
+  a5c249c96ab648408d93b5defa7ffa0a:
+    span:
+      start: 17149
+      end: 18081
+    imgnum: 22
+    reference: I8LS175680022.jpg
+  6eb01c625a9a4ae49d4a75275b7276d8:
+    span:
+      start: 18082
+      end: 19039
+    imgnum: 23
+    reference: I8LS175680023.jpg
+  14aa326be1864d4bb821c60d7e218b5f:
+    span:
+      start: 19040
+      end: 20000
+    imgnum: 24
+    reference: I8LS175680024.jpg
+  437fc1226dd3443a97dd08f481c05c28:
+    span:
+      start: 20001
+      end: 20910
+    imgnum: 25
+    reference: I8LS175680025.jpg
+  a6763cc8a9e54cf9a9475da9e021dee2:
+    span:
+      start: 20911
+      end: 21882
+    imgnum: 26
+    reference: I8LS175680026.jpg
+  990b73c7d45348f79f25c3d0c50f0538:
+    span:
+      start: 21883
+      end: 22802
+    imgnum: 27
+    reference: I8LS175680027.jpg
+  51b48f17275b4603adae9bb1487a83b7:
+    span:
+      start: 22803
+      end: 23863
+    imgnum: 28
+    reference: I8LS175680028.jpg
+  abb67b7ff6ab47d1961bb7cd9da78e7c:
+    span:
+      start: 23864
+      end: 24877
+    imgnum: 29
+    reference: I8LS175680029.jpg
